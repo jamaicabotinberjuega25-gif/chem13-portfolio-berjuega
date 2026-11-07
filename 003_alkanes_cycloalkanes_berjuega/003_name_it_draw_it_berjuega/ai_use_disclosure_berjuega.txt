@@ -1,0 +1,11 @@
+AI USE DISCLOSURE STATEMENT
+
+Student Name: Jamaica B. Berjuega
+Course / Project: Chem13 / One Molecule, Four Representations Exercise
+Date: October 25, 2026
+
+AI Tool Used and Purpose
+   Artificial intelligence (AI) was used only to verify and generate the IUPAC names of compounds through The Alkane: IUPAC Name Generator web application. No AI tools were used to generate, write, analyze, interpret, or edit the content of this submission. The discussion, explanations, and conclusions were based solely on the professor's lecture materials and the author's own work.
+
+The Alkane. (n.d.). The Alkane: IUPAC name generator [Web application]. Retrieved November 7, 2026, from https://thealkane.com/
+
